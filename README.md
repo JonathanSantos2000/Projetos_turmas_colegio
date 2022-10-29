@@ -16,3 +16,5 @@ Obs: nomes dos alunos pais e datas foram todos alterados.
  *E por fim criei um novo arquivo .xlsx
 
 ## -Idade/sexo Turma: (W.I.P)
+
+ *Foi separado
